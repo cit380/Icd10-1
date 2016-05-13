@@ -1,0 +1,12 @@
+{
+  "name": "icd10",
+  "version": "1.0.0",
+  "description": "Simple Icd10 library look up",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
